@@ -1,2 +1,3 @@
-# Designing-Raspberry-Pi-Pico-Boards-With-KiCad
-this will be the public-facing repository for project files for the book
+# Design an RP2040 board with KiCad
+
+Example code and assets for Design an RP2040 board with KiCad from Raspberry Pi Press
