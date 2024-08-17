@@ -1,0 +1,21 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.10*%
+%TF.CreationDate,2024-02-26T14:54:02+00:00*%
+%TF.ProjectId,rp2040_game_con,72703230-3430-45f6-9761-6d655f636f6e,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.10) date 2024-02-26 14:54:02*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10O,1.100000X2.400000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J2*%
+X122280000Y-41900000D03*
+X116630000Y-41900000D03*
+%TD*%
+M02*
