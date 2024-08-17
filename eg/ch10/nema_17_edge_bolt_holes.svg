@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="58mm"
+   height="42mm"
+   viewBox="0 0 58 42"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16, custom)"
+   sodipodi:docname="nema_17_edge_bolt_holes.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.5340488"
+     inkscape:cx="186.76068"
+     inkscape:cy="87.676481"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false">
+    <sodipodi:guide
+       position="-9.6889874e-07,268.35889"
+       orientation="-1,0"
+       id="guide1"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="67.458378,291.5"
+       orientation="0,1"
+       id="guide2"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="5.4999991,263.52962"
+       orientation="-1,0"
+       id="guide3"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="36.5,251.8014"
+       orientation="-1,0"
+       id="guide4"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="68.651566,260.5"
+       orientation="0,1"
+       id="guide5"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="20.999999,297"
+       orientation="0,1"
+       id="guide6"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20,-30)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.02;stroke-dasharray:none"
+       id="rect1"
+       width="57.98"
+       height="41.98"
+       x="20.01"
+       y="30.01"
+       ry="1.1258626" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.02;stroke-dasharray:none"
+       id="path1"
+       cx="25.5"
+       cy="35.5"
+       r="1.59" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.02;stroke-dasharray:none"
+       id="path1-5"
+       cx="25.5"
+       cy="66.5"
+       r="1.59" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.02;stroke-dasharray:none"
+       id="path1-5-2"
+       cx="56.5"
+       cy="66.5"
+       r="1.59" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.02;stroke-dasharray:none"
+       id="path1-5-2-7"
+       cx="56.5"
+       cy="35.5"
+       r="1.59" />
+  </g>
+</svg>

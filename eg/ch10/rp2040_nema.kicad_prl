@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 37,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -38,6 +38,7 @@
       9,
       10,
       11,
+      12,
       13,
       15,
       16,
@@ -66,14 +67,8 @@
     "visible_layers": "ff8ffff_ffffffff",
     "zone_display_mode": 0
   },
-  "git": {
-    "repo_password": "",
-    "repo_type": "",
-    "repo_username": "",
-    "ssh_key": ""
-  },
   "meta": {
-    "filename": "KiCAD_Board_3_Minimal_Full_RP2040.kicad_prl",
+    "filename": "rp2040_nema.kicad_prl",
     "version": 3
   },
   "project": {
